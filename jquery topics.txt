@@ -1,0 +1,13 @@
+1. jQuery Get Started
+2. jQuery document ready
+3. jQuery Selector
+4. jQuery Load Method Complete Guide
+5. jQuery Animation tutorial
+6. Implementing TMDB API in jQuery
+7. jQuery Timer Examples and implementation
+8. How to Create jQuery Pagination System in your Web Page
+9. jQuery Traversing
+10.jQuery Form Validation
+11.jQuery AJAX Method
+12.jQuery Each
+13.jQuery fadein fadeout
